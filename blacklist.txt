@@ -6,3 +6,4 @@
 # 'example.com':
 
 0.0.0.0 www.omegle.com
+0.0.0.0 omegle.com
